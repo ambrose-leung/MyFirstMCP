@@ -12,4 +12,8 @@ Starting and Stopping MCP Server is done from `mcp.json` - mcp.json needs to be 
 Run the '.NET Core Attach' debug profile after starting the MCP server
 
 Here's what it looks like:
-![image](https://github.com/user-attachments/assets/11260f2b-a7c3-42e2-8d4a-e292a7544411)
+![image](https://github.com/user-attachments/assets/0c44bc18-ae8e-46f5-a835-920943314468)
+
+# Troubleshooting tips
+- Make sure you're in Agent mode 
+- Press Ctrl+Alt+B to show the right sidepane
