@@ -1,9 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using ModelContextProtocol.Server;
-using System.ComponentModel;
-using Microsoft.Extensions.Http;
 using MyFirstMCP;
 
 //https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp
