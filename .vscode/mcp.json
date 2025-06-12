@@ -7,8 +7,11 @@
             "args": [
                 "run",
                 "--project",
-                "C:\\code\\MyFirstMCP\\MyFirstMCP.csproj"
+                "C:\\code\\MyFirstMCP\\src\\MyFirstMCP.csproj"
             ]
+        },
+        "hostedMcp": {
+            "url": "https://app-g7jhbumxvsnw4.azurewebsites.net/"
         }
     }
 }
